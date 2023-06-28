@@ -1,4 +1,6 @@
 {
+  "name": "nextjs-electron-sample",
+  "version": "1.0.0",
   "private": true,
   "main": "main/index.js",
   "productName": "ElectronTypescriptNext",
